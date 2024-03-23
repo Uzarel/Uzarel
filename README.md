@@ -10,7 +10,7 @@ I'm a former mathematician turned into a data scientist who loves programming!
 
 I'm a PhD candidate in the National PhD in Artificial Intelligence at the University of Naples Federico II. I'm currently working on several industrial projects, European projects as well as personal projects, involving AI-powered IoT solutions, chatbots and more.
 
-## Languages and tools 👨🏼‍🔬
+## Languages and tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@ I'm a PhD candidate in the National PhD in Artificial Intelligence at the Univer
   <li><strong>PyTorch</strong>: I really enjoy using PyTorch for its easy of use to deliver my Deep Learning solutions.</li>
 </ul>
 
-## Hobbies 🤹🏼‍♂️
+## Hobbies
 
 <ul>
   <li>🎲 <strong>Games</strong>: I usually play tabletop games with friends, including role-playing games. I also like playing old-fashioned videogames.</li>
