@@ -24,13 +24,11 @@ I'm a PhD candidate in the National PhD in Artificial Intelligence at the Univer
 <ul>
   <li><strong>Python</strong>: Every day I read and write in Python. I adore the language and the things the community has created using it.</li>
   <li><strong>PyTorch</strong>: I really enjoy using PyTorch for its easy of use to deliver my Deep Learning solutions.</li>
-  <li><strong>SQL</strong>: You can't be a fancy data scientist without being able to query data.</li>
 </ul>
 
 ## Hobbies 🤹🏼‍♂️
 
 <ul>
-  <li>🤝 <strong>Volunteering</strong>: I frequently lend a hand to friends and coworkers. I enjoy helping others and being useful. I'm actively looking for groups where I can make a difference.</li>
   <li>🎲 <strong>Games</strong>: I usually play tabletop games with friends, including role-playing games. I also like playing old-fashioned videogames.</li>
   <li>🎼 <strong>Music</strong>: I have been playing classical guitar for more than 10 years, and I'm currently part of a small band.
 </ul>
