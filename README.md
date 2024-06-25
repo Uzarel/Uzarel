@@ -15,7 +15,7 @@ I'm a PhD candidate in the National PhD in Artificial Intelligence at the Univer
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
@@ -24,11 +24,13 @@ I'm a PhD candidate in the National PhD in Artificial Intelligence at the Univer
 <ul>
   <li><strong>Python</strong>: Every day I read and write in Python. I adore the language and the things the community has created using it.</li>
   <li><strong>PyTorch</strong>: I really enjoy using PyTorch for its easy of use to deliver my Deep Learning solutions.</li>
+  <li><strong>Docker</strong>: I leverage Docker to containerize my applications, ensuring seamless deployment across various environments.</li>
 </ul>
 
 ## Hobbies
 
 <ul>
   <li>🎲 <strong>Games</strong>: I usually play tabletop games with friends, including role-playing games. I also like playing old-fashioned videogames.</li>
-  <li>🎼 <strong>Music</strong>: I have been playing classical guitar for more than 10 years, and I'm currently part of a small band.
+  <li>🎼 <strong>Music</strong>: I have been playing classical guitar for more than 10 years, and I'm currently part of a small band.</li>
+  <li>🏋 <strong>Gym</strong>: I maintain an active lifestyle with regular gym workouts and occasional outdoor activities like hiking.</li>
 </ul>
